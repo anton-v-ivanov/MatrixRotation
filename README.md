@@ -2,7 +2,7 @@
 You are given a 2D matrix, a, of dimension MxN and a positive integer R.  
 You have to rotate the matrix R times and return the resultant matrix. Rotation should be in anti-clockwise direction.  
 
-Rotation of a 4x5 matrix is represented by the following figure. Note that in one rotation, you have to shift elements by one step only (refer sample tests for more clarity).  
+Rotation of a 4x5 matrix is represented by the following figure. Note that in one rotation, you have to shift elements by one step only.  
 It is guaranteed that the minimum of M and N will be even.
 
 ![alt tag](https://hr-challenge-images.s3.amazonaws.com/2517/matrix-rotation.png)
